@@ -13,6 +13,6 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # Global rule:
-* @CloudTalk-io/apps
+* @CloudTalk-io/apps @cloudtalk-morty
 
 
